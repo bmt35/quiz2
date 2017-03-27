@@ -1,15 +1,3 @@
-<? php
-    if(isset($_COOKIE[fname]))
-    {
-      echo "heelo";
-    }
-    else 
-    {
-      echo "asdf";
-    }
-
-  ?>
-
 <!DOCTYPE HTML>
 <html lang="en">  
  <head>
